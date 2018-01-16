@@ -8,7 +8,7 @@ android {
     aaptOptions.useNewCruncher = false
 
     defaultConfig {
-        applicationId "com.china.snapshot"
+        applicationId "com.china.mysnapshot"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode new Date().format("yyMMddHHmm").toInteger()
