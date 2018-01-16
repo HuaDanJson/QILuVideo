@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Snapshot</string>
+    <string name="app_name">QiLuVideo</string>
     <string name="loading">Loading…</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_videoedit">VideoeditActivity</string>
@@ -28,4 +28,6 @@
     <string name="feedback_activity_commit_text">Submit feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="quit_app">Tap again to quit QiLuVideo</string>
+    <string name="go_on">Continue</string>
+
 </resources>
